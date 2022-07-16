@@ -98,7 +98,7 @@ button:active{
 }
 @media (max-width: 375px){
     .img-section img{
-        content:url("images/image-product-mobile.jpg");
+        content:url("https://fatihbulbul1.github.io/responsive-product-preview-card/images/image-product-mobile.jpg");
     }
     .card{
         flex-direction: column;
