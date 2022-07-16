@@ -1,0 +1,1 @@
+# responsive-product-preview-card
